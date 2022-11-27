@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="500" id="gradient_1">
+      <stop offset="0%" stop-color="#798BC7" />
+      <stop offset="100%" stop-color="#54A954" />
+    </linearGradient>
+    <rect width="500" height="500" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Логотип-квадратный" clip-path="url(#clip_1)">
+    <path d="M0 0L500 0L500 500L0 500L0 0Z" id="Прямоугольник" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" artboard="fa0098e4-bc25-40d7-94ea-c160a2d0b9cf" />
+    <path d="M138.849 0.0110474L139.69 0.0110474L138.849 0.952103L138.849 0.0110474ZM138.849 228.984L138.849 226.922L341.586 0.0110474L525.849 0.0110474L525.849 516L306.818 516L306.818 228.984L138.849 228.984Z" id="Прямоугольник-Вычитание-Вычитание" fill="#9FEEBA" fill-rule="evenodd" stroke="none" artboard="e2aa8974-3163-4077-b1c3-18445db86236" />
+  </g>
+</svg>
